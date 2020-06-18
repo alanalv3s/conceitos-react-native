@@ -89,6 +89,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 15,
     backgroundColor: "#fff",
     padding: 20,
+    borderRadius: 8
   },
   repository: {
     fontSize: 32,
@@ -106,6 +107,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     paddingVertical: 5,
     color: "#fff",
+    borderRadius: 4
   },
   likesContainer: {
     marginTop: 15,
@@ -127,5 +129,6 @@ const styles = StyleSheet.create({
     color: "#fff",
     backgroundColor: "#7159c1",
     padding: 15,
+    borderRadius: 8
   },
 });
